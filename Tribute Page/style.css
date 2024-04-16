@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://res.cloudinary.com/lfn6pj26m/image/upload/v1456424463/yellowbg_ygb26h.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 60px;
+    padding-bottom: 0px;
+  }
+  
+  .h1-padding {
+    padding-top: 30px;
+  }
+  
+  p {
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+  }
+  
+  .ul-padding {
+    padding-left: 30px;
+  }
